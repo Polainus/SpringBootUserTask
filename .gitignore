@@ -1,0 +1,16 @@
+# Compilación y dependencias
+/target/
+/bin/
+/build/
+
+# Archivos de entorno
+*.log
+*.env
+*.properties
+*.iml
+/.idea/
+/.vscode/
+/*.DS_Store
+
+# Archivos del sistema
+*.class
