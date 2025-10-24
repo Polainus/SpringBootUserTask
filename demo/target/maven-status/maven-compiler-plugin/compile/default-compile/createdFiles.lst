@@ -1,0 +1,9 @@
+com\User\demo\controllers\UserController.class
+com\User\demo\repositories\TaskRepository.class
+com\User\demo\controllers\TaskController.class
+com\User\demo\repositories\UserRepository.class
+com\User\demo\services\TaskService.class
+com\User\demo\DemoApplication.class
+com\User\demo\entities\Task.class
+com\User\demo\services\UserService.class
+com\User\demo\entities\User.class
